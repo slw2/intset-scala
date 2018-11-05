@@ -1,0 +1,2 @@
+scalac -cp scalatest-app_2.12-3.0.4.jar ExampleSpec.scala
+scala -cp scalatest-app_2.12-3.0.4.jar org.scalatest.run ExampleSpec
